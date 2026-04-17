@@ -8,6 +8,8 @@ public class ParkingManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ParkingManagementSystemApplication.class, args);
+
+		System.out.println("programma runnato");
 	}
 
 }
